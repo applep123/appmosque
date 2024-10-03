@@ -1,0 +1,2 @@
+Ini akan menjadi projek web app masjid mudah-mudahan
+1. Instalasi Database
